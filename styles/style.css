@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(173, 216, 230, 0.1);
+}
+.company-logo{
+    width: 60px;
+    height: auto;
+    display: block;
+}
+.logo-div-a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.company-name{
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    color: red;
+    font-size: 35px;
+}
+header{
+    border-bottom: 2px solid green;
+}
